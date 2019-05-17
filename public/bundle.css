@@ -1,0 +1,7 @@
+main.svelte-13zymak{position:fixed;top:0px;left:0px;right:0px;bottom:0px;display:flex;flex-direction:column;overflow:hidden}nav.svelte-13zymak{display:flex;border-bottom:1px solid gainsboro}nav.svelte-13zymak span.svelte-13zymak{flex:1}nav.svelte-13zymak ul.svelte-13zymak{display:flex;list-style:none}nav.svelte-13zymak li.svelte-13zymak{padding:4px 12px;flex:1;display:flex}nav.svelte-13zymak li a.svelte-13zymak{padding:2px 6px;border-radius:3px;flex:1}nav.svelte-13zymak li.svelte-13zymak a.active:hover{text-decoration:none}article.svelte-13zymak{flex:1;display:flex;overflow:hidden}
+.Notifications.svelte-50s66z{position:fixed;display:flex;flex-direction:column;align-items:center;top:24px;left:0px;right:0px;pointer-events:none;z-index:9999}.box.svelte-50s66z{padding:6px}.body.svelte-50s66z{padding-right:8px;border-radius:6px;display:flex;align-items:center;pointer-events:initial}.box.is-info.svelte-50s66z .body.svelte-50s66z{background-color:#0072bbdf;color:white}.box.is-error.svelte-50s66z .body.svelte-50s66z{background-color:crimson;color:white}.box.is-warning.svelte-50s66z .body.svelte-50s66z{background-color:orange;color:white}.message.svelte-50s66z{flex:1;padding:6px 12px;padding-right:6px;width:25vw}.btn.svelte-50s66z{cursor:pointer;opacity:0.4}.btn.svelte-50s66z:hover{opacity:0.7}.btn.svelte-50s66z:active{opacity:1}
+svg.rotate.svelte-1qtqd2q{transform:rotate(45deg)}
+p.svelte-4c5e2n{padding:2em}
+p.svelte-hjln8o{padding:2em;color:crimson}
+
+/*# sourceMappingURL=bundle.css.map */
