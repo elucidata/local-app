@@ -1,6 +1,6 @@
 # Local App
 
-A simple starter app for building app meant to be run locally (possibly using hotel).
+A simple starter project for building apps meant to be run locally. (Possibly using [Hotel](https://github.com/typicode/hotel)).
 
 - [Svelte](https://svelte.dev/)
   - [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router)
